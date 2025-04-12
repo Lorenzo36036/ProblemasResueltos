@@ -5,7 +5,7 @@
 1) Visual studio code pagina oficial
 https://code.visualstudio.com/download
 
-3) Version de Node: v23.11.0 Pagina oficial:
+3) Version de Node: v23.11.0 pagina oficial:
 https://nodejs.org/es/download/current
 
 
