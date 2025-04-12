@@ -23,3 +23,4 @@ Para ejercutar el archivo primero abres el archivo en tu visual studio code, te 
 ## Nota 
 La imnportacion de readline, es una libreria de node js para poder trabajar con entrada y salida de datos
 Documentacion: https://nodejs.org/api/readline.html
+![image](https://github.com/user-attachments/assets/0ee0563e-0cd5-45c0-8e5f-71b5324cf577)
